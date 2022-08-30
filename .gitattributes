@@ -1,0 +1,9 @@
+Documents.part06.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part01.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part02.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part04.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part08.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part09.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part03.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part05.rar filter=lfs diff=lfs merge=lfs -text
+Documents.part07.rar filter=lfs diff=lfs merge=lfs -text
